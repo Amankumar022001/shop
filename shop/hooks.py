@@ -7,7 +7,7 @@ app_license = "mit"
 
 use_json_request_body = True
 
-required_apps = ["frappe", "erpnext", "payments", "builder"]
+required_apps = []
 
 add_to_apps_screen = [
 	{
